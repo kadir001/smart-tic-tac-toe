@@ -1,7 +1,12 @@
-"homepage": "https://kadir001.github.io/smart-tic-tac-toe",
-"scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "preview": "vite preview",
-  "deploy": "vite build && gh-pages -d dist"
+{
+  "name": "smart-tic-tac-toe",
+  "version": "1.0.0",
+  "homepage": "https://kadir001.github.io/smart-tic-tac-toe",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "vite build && gh-pages -d dist"
+  },
+  ...
 }
