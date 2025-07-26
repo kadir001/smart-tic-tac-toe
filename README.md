@@ -11,7 +11,7 @@ An unbeatable Tic Tac Toe game with modern visuals and AI powered by the Minimax
 ## 🚀 Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-tic-tac-toe.git
+git clone https://github.com/kadir001/smart-tic-tac-toe.git
 cd smart-tic-tac-toe
 npm install
 npm run dev
